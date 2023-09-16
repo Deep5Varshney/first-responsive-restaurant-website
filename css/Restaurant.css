@@ -65,6 +65,10 @@ button{
     background-color: #F5B968;
     border:none;
 }
+button:hover{
+    background-color:#FFF;
+    border:1px solid black;
+}
 
 .container{
     display: flex;
